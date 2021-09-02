@@ -3,7 +3,7 @@
 
 title: Probabilistic-Programming-with-Pyro
 author: Prakash Bisht, Soma S. Dhavala
-logo: logo.png
+logo: ppyro_logo.gif
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
